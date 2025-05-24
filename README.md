@@ -6,22 +6,16 @@ This is an old series (6 years) but I guess is ok for learning the basics.
 Note: `create-react-app` is depricated.
 
 
-### Lesson 1 and 2
-Introduces the concept of React and virtual DOM.
+### Lesson 5 & 6
+Introduces the concept of state in React and manipulating it using.
+Also installing React Developer Tools extension which appears red  (development) and blue (production)
 
-### Lesson 3
-- Starts from a simple html boiler plate.
-- React CDN
-- VS code extensions for productivity (`ES7`, `sublime babel`, `Monokai++`)
+### Lesson 7
+Introduces event listeners concept (with console.log)
+- onClick
+- onMouseOver
+- onCopy
 
-### Lesson 4
-Creating a basic component in react
-
-<b> JSX </b> : a way to write html code in <b>JS</b> <br> </br>
-
-Limitations of JSX:
-- 1 root element at the top
-- class keyword cannot be used for CSS -> `className` is used instead
-- JSX is not supported in browser out of the box
-
-so we need to add babel script from `babel CDN`
+### Lesson 8
+Accessing the state object using this
+- arrow function is the simple way out
